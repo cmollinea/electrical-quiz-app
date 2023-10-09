@@ -1,6 +1,6 @@
-import { IQuestion, useGameStore } from '../store/store.js';
-import { getResult } from '../utils/getResult.js';
-import NavigationButtons from './NavigationButtons.js';
+import { IQuestion, useGameStore } from '../store/store';
+import { getResult } from '../utils/getResult';
+import NavigationButtons from './NavigationButtons';
 
 type Props = {
   questionInfo: IQuestion | null;

@@ -1,4 +1,4 @@
-import { useGameStore } from '../store/store.js';
+import { useGameStore } from '../store/store';
 
 function Score() {
   let correct = 0;

@@ -1,7 +1,7 @@
-import Button from './components/Button.js';
-import QuestionContainer from './components/QUestionContainer.js';
-import Score from './components/Score.js';
-import { useGameStore } from './store/store.js';
+import Button from './components/Button';
+import QuestionContainer from './components/QuestionContainer';
+import Score from './components/Score';
+import { useGameStore } from './store/store';
 
 function App() {
   const questions = useGameStore((state) => state.questions);

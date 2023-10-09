@@ -1,4 +1,4 @@
-import { useGameStore } from '../store/store.js';
+import { useGameStore } from '../store/store';
 
 type Props = {
   isUserSelected: boolean;

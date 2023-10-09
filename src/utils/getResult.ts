@@ -1,4 +1,4 @@
-import { IQuestion } from '../store/store.js';
+import { IQuestion } from '../store/store';
 
 export const getResult = (info: IQuestion, index: number) => {
   const { userSelectedAnswer, correct_answer } = info;
