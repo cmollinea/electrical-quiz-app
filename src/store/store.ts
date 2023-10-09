@@ -26,7 +26,7 @@ export const useGameStore = create<GameState>((set, get) => ({
   currentQuestion: 0,
 
   startGame: async () => {
-    const response = await fetch('http://localhost:5173/question.json');
+    const response = await fetch('https://electrical-quiz-app.vercel.app/question.json');
     const questions: IQuestion[] = await response.json();
     set(() => ({
       questions: questions.sort(() => Math.random() - 0.5).slice(0, 10)
