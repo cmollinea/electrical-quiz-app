@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "question": "¿Cuál es la unidad de medida utilizada para la resistencia eléctrica?",
+    "answers": ["Ohm", "Volt", "Amperio", "Watt"],
+    "correct_answer": 0
+  },
+  {
+    "id": 2,
+    "question": "¿Cuál de los siguientes dispositivos se emplea para cambiar la corriente alterna a corriente continua?",
+    "answers": ["Transformador", "Generador", "Inversor", "Rectificador"],
+    "correct_answer": 3
+  },
+  {
+    "id": 3,
+    "question": "¿Qué ley establece que la corriente que fluye por un conductor es directamente proporcional a la tensión aplicada e inversamente proporcional a la resistencia del conductor?",
+    "answers": [
+      "Ley de Coulomb",
+      "Ley de Gauss",
+      "Ley de Ohm",
+      "Ley de Ampère"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "id": 4,
+    "question": "¿Qué tipo de material tiene una resistencia constante independientemente de la temperatura?",
+    "answers": ["Conductor", "Semiconductor", "Superconductor", "Aislante"],
+    "correct_answer": 2
+  },
+  {
+    "id": 5,
+    "question": "¿Cuál de las siguientes leyes describe cómo se distribuyen las cargas eléctricas en un conductor en equilibrio?",
+    "answers": [
+      "Ley de Coulomb",
+      "Ley de Ampère",
+      "Ley de Ohm",
+      "Ley de Gauss"
+    ],
+    "correct_answer": 3
+  },
+  {
+    "id": 6,
+    "question": "¿Qué mide el instrumento conocido como multímetro?",
+    "answers": ["Corriente eléctrica", "Voltaje", "Resistencia", "Todos ellos"],
+    "correct_answer": 3
+  },
+  {
+    "id": 7,
+    "question": "¿Cuál de las siguientes magnitudes está relacionada con la cantidad de electrones que fluyen por unidad de tiempo?",
+    "answers": [
+      "Voltaje",
+      "Corriente eléctrica",
+      "Resistencia",
+      "Capacitancia"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 8,
+    "question": "¿Qué ley establece que la fuerza entre dos cargas eléctricas es directamente proporcional al producto de sus cargas e inversamente proporcional al cuadrado de la distancia entre ellas?",
+    "answers": [
+      "Ley de Coulomb",
+      "Ley de Ampère",
+      "Ley de Ohm",
+      "Ley de Gauss"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 9,
+    "question": "¿Qué tipo de corriente se caracteriza por cambiar su dirección constantemente en un ciclo regular?",
+    "answers": [
+      "Corriente directa",
+      "Corriente alterna",
+      "Corriente pulsante",
+      "Corriente monofásica"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 10,
+    "question": "¿Qué tipo de carga eléctrica se considera negativa?",
+    "answers": [
+      "Protones",
+      "Electrones",
+      "Neutrones",
+      "Ambas respuestas anteriores son correctas"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 11,
+    "question": "¿Cuál de los siguientes dispositivos actúa como una 'válvula' electrónica controlando el flujo de corriente?",
+    "answers": ["Transistor", "Inductor", "Condensador", "Resistor"],
+    "correct_answer": 0
+  },
+  {
+    "id": 12,
+    "question": "¿Cuál de las siguientes ecuaciones relaciona la potencia (P), la corriente (I) y la tensión (V)?",
+    "answers": ["P = IV", "P = I/V", "P = V/I", "P = I^2R"],
+    "correct_answer": 0
+  },
+  {
+    "id": 13,
+    "question": "¿Qué componente electrónico almacena energía en un campo magnético y se utiliza para regular la corriente en un circuito?",
+    "answers": ["Resistor", "Inductor", "Condensador", "Transistor"],
+    "correct_answer": 1
+  },
+  {
+    "id": 14,
+    "question": "¿Cuál de las siguientes unidades se utiliza para medir la capacidad de un condensador?",
+    "answers": ["Ohm", "Faradio", "Hertz", "Watt"],
+    "correct_answer": 1
+  },
+  {
+    "id": 15,
+    "question": "¿Cuál es la constante que se utiliza para calcular la relación de transformación en un transformador?",
+    "answers": [
+      "Constante de Planck",
+      "Constante de Coulomb",
+      "Constante de Faraday",
+      "Constante de acoplamiento magnético"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 16,
+    "question": "¿Qué muestra el espectro de frecuencia de una señal periódica?",
+    "answers": [
+      "Amplitud y fase",
+      "Frecuencia y amplitud",
+      "Duración y frecuencia",
+      "Fase y duración"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 17,
+    "question": "¿Cuál de las siguientes leyes establece que la suma de las corrientes que entran en un nodo en un circuito eléctrico es igual a la suma de las corrientes que salen del nodo?",
+    "answers": [
+      "Ley de Coulomb",
+      "Ley de Kirchhoff de las corrientes",
+      "Ley de Faraday",
+      "Ley de Ohm"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "id": 18,
+    "question": "¿Cuál de las siguientes magnitudes eléctricas se mide en var?",
+    "answers": [
+      "Potencia reactiva",
+      "Corriente alterna",
+      "Inductancia",
+      "Capacitancia"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "id": 19,
+    "question": "¿Qué tipo de circuito consta de dos ramas paralelas conectadas entre sí por una resistencia común?",
+    "answers": [
+      "Circuito serie",
+      "Circuito paralelo",
+      "Circuito mixto",
+      "Circuito independiente"
+    ],
+    "correct_answer": 2
+  },
+  {
+    "id": 20,
+    "question": "¿Qué es un diodo semiconductor?",
+    "answers": [
+      "Un dispositivo de almacenamiento de energía",
+      "Un dispositivo utilizado para amplificar señales",
+      "Un dispositivo utilizado para regular la corriente",
+      "Un dispositivo utilizado para convertir corriente alterna en corriente continua"
+    ],
+    "correct_answer": 3
+  }
+]
